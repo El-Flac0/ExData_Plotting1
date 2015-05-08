@@ -27,4 +27,4 @@ hist(smallData$Global_active_power, col="red", main="Global Active Power",
      xlab="Global Active Power (kilowatts)", ylab="Frequency")
 dev.off()
 
-# All done! End of code.
+# end of code.
